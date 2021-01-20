@@ -1,3 +1,10 @@
+nstall it from npm and include it in your React build process (using Webpack, Browserify, etc).
+
+npm install nom-react-custom-banner
+or:
+
+yarn add nom-react-custom-banner
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
